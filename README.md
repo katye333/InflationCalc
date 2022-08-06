@@ -1,5 +1,8 @@
 # InflationCalc
 Learning about CI/CD via AppCenter
 
-[![Build status](https://build.appcenter.ms/v0.1/apps/3d148a25-c850-4faf-8972-3321dc90498d/branches/dev/badge)](https://appcenter.ms)
-[![Build status](https://build.appcenter.ms/v0.1/apps/6cd446fc-8b45-4372-8f68-1acaa866f9ef/branches/dev/badge)](https://appcenter.ms)
+iOS: 
+[![Build status](https://build.appcenter.ms/v0.1/apps/4176789b-21c1-4282-aa89-71ceb14f0087/branches/dev/badge)](https://appcenter.ms)
+
+Android: 
+[![Build status](https://build.appcenter.ms/v0.1/apps/7b84a7d0-8830-4881-884e-028ef50522e1/branches/dev/badge)](https://appcenter.ms)
